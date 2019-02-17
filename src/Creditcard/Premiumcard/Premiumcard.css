@@ -1,0 +1,11 @@
+.Premium{
+    width : 200px;
+    height : 300px;
+    background-color : '#cccccc';
+    color : 'red';
+    border : 1px solid red;
+    font-family : 'georgia';
+    padding : 10px;
+    margin : 10px;
+
+}
